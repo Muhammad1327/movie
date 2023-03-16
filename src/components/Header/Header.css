@@ -42,7 +42,7 @@
     color: black;
 }
 
-@media (max-width:500px){
+@media (max-width:800px){
 .search-bar input{
     padding-left: 0.5rem;
     font-size: 15px;
