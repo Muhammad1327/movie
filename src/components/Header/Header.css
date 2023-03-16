@@ -42,13 +42,3 @@
     color: black;
 }
 
-@media (max-width:800px){
-.search-bar input{
-    padding-left: 0.5rem;
-    font-size: 15px;
-    height:10px;
-}
- .logo{
-    font-size: 2px;
-}
-}
